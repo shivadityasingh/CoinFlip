@@ -20,5 +20,9 @@ The accounts which were used for the transaction are :
 
 ![image](https://user-images.githubusercontent.com/75273759/172034997-71c0fe06-7534-4442-85f2-c79868427838.png)
 
-This is the log content came out of remix directing those who placed bets as 0 (heads) won and were rewarded.
+This is the log content came out of remix directing those who placed bets as 0 (heads) won and were rewarded, confirming the event is getting correctly emitted.
+
+This was my first take at Solidity and I really hope you like it!!
+
+Thankyou.
 
