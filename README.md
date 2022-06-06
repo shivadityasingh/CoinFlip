@@ -22,7 +22,7 @@ The accounts which were used for the transaction are :
 
 This is the log content came out of remix directing those who placed bets as 0 (heads) won and were rewarded, confirming the event is getting correctly emitted.
 
-This was my first take at Solidity and I really hope you like it!!
+I really hope you like it!!
 
 Thankyou.
 
